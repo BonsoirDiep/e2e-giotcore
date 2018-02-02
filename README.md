@@ -14,11 +14,11 @@ Note that before understand about this sample, you need read:
 - [End-to-End Example](https://cloud.google.com/iot/docs/samples/end-to-end-sample) - Code example with python
 - [My TUT in Vietnamese](http://bloghoangthanh.blogspot.com/2018/02/jwt-voi-node-jsonwebtoken-cua-auth0.html) - Step to Step Understand about Google Cloud IoT Core
 
-# And
+## Don't Run - Let's Read
 
 It's not to run but to understand how it works
 
-# Open 2 console window
+## Open 2 console window
 
     Commands:
       node cloudiot_pubsub_example_server.js         Server consumes the telemetry data from a Cloud Pub/Sub topic.

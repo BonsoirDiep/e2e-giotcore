@@ -21,8 +21,8 @@ It's not to run but to understand how it works
 # Open 2 console window
 
     Commands:
-      node cloudiot_pubsub_example_server.js         The devices in this system publish temperature data on their telemetry feeds.
-      node cloudiot_pubsub_example_mqtt_device.js    Server consumes the telemetry data from a Cloud Pub/Sub topic.
+      node cloudiot_pubsub_example_server.js         Server consumes the telemetry data from a Cloud Pub/Sub topic.
+      node cloudiot_pubsub_example_mqtt_device.js    The devices in this system publish temperature data on their telemetry feeds.
 
 
 ## Disclaimer
